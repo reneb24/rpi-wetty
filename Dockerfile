@@ -1,5 +1,5 @@
 FROM hypriot/rpi-node
-MAINTAINER Rene Bimmermann <rene.bimmermann@gmail.com>
+MAINTAINER ReneB <rb@gmail.com>
 ADD . /app
 WORKDIR /app
 RUN npm install
