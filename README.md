@@ -1,2 +1,2 @@
 # rpi-wetty
-Wetty Service for Raspberry Pi..
+Wetty Service for Raspberry Pi...
